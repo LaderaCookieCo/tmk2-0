@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tmk2-0
 - 👀 I’m interested in stuff like python
 - 🌱 I’m currently learning python and javascript
-- 💞️ I’m looking to collaborate on nothing yet
+- 💞️ I’m looking to collaborate on (nothing... yet)
 - 📫 How to reach me (don't)
 
 <!---
