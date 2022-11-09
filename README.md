@@ -9,3 +9,10 @@
 4. irony
 5. pointless lists
 
+### is cheese good?
+
+- [ ] yes
+- [ ] yes
+- [ ] all of the above
+
+> i like quotes
